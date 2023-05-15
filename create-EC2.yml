@@ -13,7 +13,7 @@
      group: webserver
      count: 1
      region: us-east-1
-     security_group: ec2-security-group
+     security_group: sg-0f10c8599feee1f10
    
    tasks:
 
